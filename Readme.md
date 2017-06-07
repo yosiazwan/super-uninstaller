@@ -4,7 +4,7 @@
 
 Powerfull Android batch uninstaller with root choice (Silent)
 
-# License
+## License
 
 The MIT License (MIT)
 
